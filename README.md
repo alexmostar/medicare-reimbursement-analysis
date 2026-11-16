@@ -25,7 +25,7 @@ Tableau Public was then used to visualize state-level reimbursement differences,
 
 ## Dashboard Preview
 
-![Medicare Reimbursement Dashboard](images/Medicare_Dashboard.png)
+![Medicare Reimbursement Dashboard](Medicare_Dashboard.png)
 
 ---
 
